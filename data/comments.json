@@ -1,2 +1,15 @@
-
-[]
+[
+  {
+    "id": "1734808542833",
+    "content": "qweqweq",
+    "createdAt": "2024-12-21T19:15:42.833Z",
+    "user": {
+      "name": "asce",
+      "image": "https://avatars.githubusercontent.com/u/27480177?v=4"
+    },
+    "location": "Unknown Location",
+    "likes": 0,
+    "shares": 0,
+    "likedBy": []
+  }
+]
